@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "FIXED-5V-LDO-300mA (20V-Max)",
+        "PN": "SGM2210-5.0XN5G/TR",
+        "MF": "SGMICRO"
+      },
+      "MID": "MID20358",
+      "MD": " Operating Input Voltage Range: 2.5V to 20V\r\n● Fixed Outputs of 1.2V, 1.8V, 2.5V, 3.0V, 3.3V, 3.6V\r\nand 5.0V\r\n● Adjustable Output from 1.2V to 15V\r\n● 300mA Output Current\r\n● Output Voltage Accuracy: ±1% at +25℃\r\n● Quiescent Current: 36μA (TYP)\r\n● Low Dropout: 80mV (TYP) at 100mA, VOUT = 3.3V\r\n● Low Noise: 48μVRMS (TYP) at VOUT = 3.3V\r\n● High PSRR: 100dB (TYP) at 1kHz\r\n● Current Limiting and Thermal Protection\r\n● With Output Automatic Discharge\r\n● Stable with Small Case Size Ceramic Capacitors\r\n● Reverse Current Protection when VOUT > VIN\r\n● Shutdown Supply Current: 0.5μA (TYP)\r\n● -40℃ to +125℃ Operating Temperature Range\r\n● Available in a Green SOT-23-5 Package",
+      "MT": "Electronic Material",
+      "MQNT": 6,
+      "MCost": 65.70,
+      "MQATG": "#CLASS_0",
+      "ML": "110",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20358%2Fmain%2FSGM2210-5.0XN5G-TR.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20358/main/IMG_20261109_110728.jpg"
+      ]
+    }
+  ]
+}
